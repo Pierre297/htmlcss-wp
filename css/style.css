@@ -78,6 +78,28 @@
 
 /* Styling Page */
 
+a:link {
+    text-decoration: none;
+    color: #0000CC;
+}
+
 #logo {
     width: 140px;
+    margin-bottom: 15px;
+}
+
+#vl{
+    display: inline-block;
+    border-left: 1px solid gray;
+    height: 50px;
+    margin-left: 10px;
+    margin-bottom: 24px;
+}
+
+#lista_nav, li {
+    list-style-type: none;
+    display: inline;
+    color: gray;
+    margin-right: 10px;
+    margin-top: 15px;
 }
