@@ -62,6 +62,7 @@ header {
     background-color: khaki; */
 }
 
+
 /* main */
 .maintitles {
     margin-bottom: 20px;
@@ -79,17 +80,6 @@ header {
    
 }
 
-.p_images {
-    border-radius: 3%;
-    height: 200px;
-    width: 200px;
-}
-
-.p_images2 {
-    width:100px ;
-    height: 100px;
-}
-
 #hpsection {
     width: 60%;
     margin: 0 5%;
@@ -105,4 +95,12 @@ footer {
     /* debug
     height: 100px;
     background-color:purple; */
+}
+
+#footer_text {
+    text-align: center;
+}
+
+#hearth {
+    color: red;
 }
