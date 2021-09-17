@@ -97,40 +97,42 @@ header {
 }
 
 .side_element {
-    width: 15%;
+    width: 20%;
     float: left;
    
 }
 
 #colonna1{
-    height: 100px;
+    height: 200px;
     border-radius: 3%;
     background-image: url(../img/img-1.jpg);
     background-position: center;
-    background-size: 142px;
     margin-bottom: 20px;
+    background-size: cover;
+    background-color: grey;
 }
 
 #colonna2 {
-    height: 100px;
+    height: 200px;
     border-radius: 3%;
     background-image: url(../img/banner-2.jpg);
     background-position: center;
     margin-bottom: 20px;
+    background-size: cover;
     
 }
 
 #colonna3 {
-    height: 100px;
+    height: 200px;
     border-radius: 3%;
     background-image: url(../img/img-3.jpg);
     background-position: center;
-    background-size: 158px;
+    background-size: cover;
     margin-bottom: 20px;
 }
 
 #hpsection {
-    width: 60%;
+    width: 50%;
     margin: 0 5%;
     float: left;
     /* regole debug
